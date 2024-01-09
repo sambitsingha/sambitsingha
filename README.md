@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambitsingha" alt="sambitsingha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sambitsingha01" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sambitsingha01?logo=twitter&style=for-the-badge" alt="https://twitter.com/sambitsingha01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sambitsingha01" target="blank"><img src="https://img.shields.io/twitter/follow/sambitsingha01?logo=twitter&style=for-the-badge" alt="sambitsingha01" /></a> </p>
 
 - 🌱 I’m currently learning **React.js and TailwindCSS**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sambitsingha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sambitsingha01" height="30" width="40" /></a>
+<a href="https://twitter.com/sambitsingha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambitsingha01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sambit-singha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambit-singha" height="30" width="40" /></a>
 <a href="https://instagram.com/nameis__sambit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nameis__sambit" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/YFja8kPatZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YFja8kPatZ" height="30" width="40" /></a>
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambitsingha&show_icons=true&locale=en" alt="sambitsingha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitsingha&" alt="sambitsingha" /></p>
-
