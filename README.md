@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: My Name is SAMBIT SINGHA
 🔭 I’m currently working on Open Source projects<br>🌱 I’m currently learning React.js and Tailwind CSS<br>💬 Ask me about Javascript<br>⚡ Fun fact - I am brogrammer :)
 
 
