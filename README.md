@@ -1,5 +1,5 @@
 # 💫 About Me: My Name is SAMBIT SINGHA
-🔭 I’m currently working on Open Source projects<br>🌱 I’m currently learning React.js,Tailwind CSS and App development using React Native <br>💬 Ask me about Javascript<br>⚡ Fun fact - I am brogrammer :)
+🔭 I’m currently working on Open Source projects<br>🌱 I’m currently learning Next.js , TypeScript and App development using React Native <br>💬 Ask me about Javascript<br>⚡ Fun fact - I am brogrammer :)
 
 
 ## 🌐 Socials:
